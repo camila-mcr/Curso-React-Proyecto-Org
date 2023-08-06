@@ -1,0 +1,31 @@
+.lista-opciones{
+    margin: 24px 0;
+    font-family: var(--font-montserrat);
+}
+
+
+.lista-opciones label{
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+    color: #212121;
+}
+
+.lista-opciones select{
+    width: 100%;
+    padding: 30px 20px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.08);
+    border: none;
+    outline-color: var(--colour-main-blue);
+    font-size: 16px;
+}
+
+/* .campo-texto input::placeholder{
+    color: #AFAFAF;
+    font-family: var(--font-montserrat);
+    font-size: 16px;
+    font-weight: 400;
+} */
+

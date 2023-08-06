@@ -1,0 +1,17 @@
+.boton{
+    background-color: var(--colour-main-blue);
+    border-radius: 10px;
+    color: var(--colour-white);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: var(--font-montserrat);
+    text-align: center;
+    padding: 24px 32px;
+    border: none;
+    margin: 32px 0;
+    cursor: pointer;
+}
+
+.boton:hover{
+    color: var(--colour-main-green);
+}
